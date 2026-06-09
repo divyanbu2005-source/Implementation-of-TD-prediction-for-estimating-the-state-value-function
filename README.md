@@ -1,5 +1,4 @@
 # TD Prediction for Estimating the State-Value Function using FrozenLake Environment
-
 ## Aim
 
 To implement the Temporal Difference (TD) Prediction algorithm for estimating the state-value function in the FrozenLake environment using Reinforcement Learning.
